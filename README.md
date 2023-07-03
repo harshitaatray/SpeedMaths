@@ -1,2 +1,2 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+# Speed Math
+Quickly answer math questions correctly before the question leaves the screen
